@@ -49,4 +49,8 @@ public class CardTrick {
         String pickedCard = System.console().readLine();
         trick.findCard(pickedCard);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 47653dbbf361442b6b81c849f72bed43c890b3c4

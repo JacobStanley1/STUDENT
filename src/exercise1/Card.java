@@ -44,4 +44,8 @@ public class Card {
     public void setValue(int value) {
         this.value = value;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 47653dbbf361442b6b81c849f72bed43c890b3c4
